@@ -1,0 +1,11 @@
+#notebook-actions-dropdown {
+  display: none;
+}
+
+.fixed.bottom-0.right-0.z-50 {
+  display: none;
+}
+
+.hidden{
+  display: none !important;
+}
